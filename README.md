@@ -1,2 +1,1 @@
-# algorithms_assignments
-Repository for laboratories
+# IJonesLab6
